@@ -16,5 +16,4 @@ Team member : Ganasyam R S
 
 ServiceNow Instance:https://dev340899.service-now.com/now/nav/ui/classic/params/target/ui\_page.do%3Fsys\_id%3Dbb66abc0c3c5321041687405e40131c2
 
-Video Demo Link: https://drive.google.com/file/d/1lzVVQnDpZmRq0uJ0xwMRO5KdPn0Fr7N-/view?usp=sharing
-
+Video Demo Link: https://drive.google.com/file/d/1opbyKZKHUblKYv_mwcA2cO-gi85Ce3Dp/view?usp=drive_link
